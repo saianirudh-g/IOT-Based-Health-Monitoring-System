@@ -1,4 +1,4 @@
-# IoT-Based Health Monitoring System[cite: 1]
+# IOT-Based Health Monitoring System
 
 ## Overview
 The Internet of Things (IoT) is a rapidly growing technology where smart objects and devices are connected to the internet for effective communication[cite: 1]. This project aims to decrease the death rate by detecting chronic diseases such as cancer and heart diseases, and to reduce human-dependent healthcare[cite: 1]. It utilizes networked sensor devices, either worn on the body or embedded in living environments, to gather rich information to evaluate a patient's physical and mental health[cite: 1]. The system records health-related information like blood pressure, body temperature, sugar levels, and breathing patterns, delivering this data to the concerned hospital or caretaker for further action[cite: 1].
